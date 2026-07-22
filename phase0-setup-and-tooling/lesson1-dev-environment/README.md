@@ -2,10 +2,10 @@
 
 > Công cụ định hình cách bạn tư duy. Cài đặt một lần, cài đặt cho đúng.
 
-**Loại:** Build
-**Ngôn ngữ:** Python, Node.js, Rust
-**Yêu cầu trước:** Không có
-**Thời gian:** ~45 phút
+- **Loại:** Build
+- **Ngôn ngữ:** Python, Node.js, Rust
+- **Yêu cầu trước:** Không có
+- **Thời gian:** ~45 phút
 
 ## Mục tiêu học tập
 
