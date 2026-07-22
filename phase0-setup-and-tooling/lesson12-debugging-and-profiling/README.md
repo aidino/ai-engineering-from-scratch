@@ -2,10 +2,10 @@
 
 > Những bug AI tệ nhất không crash. Chúng âm thầm train trên dữ liệu rác và báo cáo một loss curve đẹp đẽ.
 
-**Type:** Build
-**Language:** Python
-**Prerequisites:** Lesson 1 (Dev Environment), quen thuộc cơ bản với PyTorch
-**Time:** ~60 phút
+- **Type:** Build
+- **Language:** Python
+- **Prerequisites:** Lesson 1 (Dev Environment), quen thuộc cơ bản với PyTorch
+- **Time:** ~60 phút
 
 ## Mục tiêu học tập
 

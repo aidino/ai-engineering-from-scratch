@@ -2,10 +2,10 @@
 
 > Data là nhiên liệu. Cách bạn quản lý nó quyết định tốc độ bạn đi.
 
-**Type:** Build
-**Language:** Python
-**Prerequisites:** Phase 0, Lesson 01
-**Time:** ~45 phút
+- **Type:** Build
+- **Language:** Python
+- **Prerequisites:** Phase 0, Lesson 01
+- **Time:** ~45 phút
 
 ## Mục Tiêu Học Tập
 

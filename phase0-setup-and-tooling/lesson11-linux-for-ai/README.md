@@ -2,10 +2,10 @@
 
 > Hầu hết AI chạy trên Linux. Bạn cần biết đủ để không bị mắc kẹt.
 
-**Type:** Learn
-**Languages:** --
-**Prerequisites:** Phase 0, Lesson 01
-**Time:** ~30 phút
+- **Type:** Learn
+- **Languages:** --
+- **Prerequisites:** Phase 0, Lesson 01
+- **Time:** ~30 phút
 
 ## Mục tiêu học tập
 

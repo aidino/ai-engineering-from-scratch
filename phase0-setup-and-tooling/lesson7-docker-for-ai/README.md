@@ -2,10 +2,10 @@
 
 > Container giúp loại bỏ vấn đề "chạy được trên máy tôi" mãi mãi.
 
-**Loại:** Build
-**Ngôn ngữ:** Docker
-**Yêu cầu trước:** Phase 0, Bài 01 và 03
-**Thời gian:** ~60 phút
+- **Loại:** Build
+- **Ngôn ngữ:** Docker
+- **Yêu cầu trước:** Phase 0, Bài 01 và 03
+- **Thời gian:** ~60 phút
 
 ## Mục tiêu học tập
 
