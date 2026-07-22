@@ -42,24 +42,24 @@ Total estimated time: ~314 hours, at your own pace.
 
 **Legend:** ✅ Complete &nbsp;·&nbsp; 🚧 In Progress &nbsp;·&nbsp; ⬚ Planned
 
-## Phase 0: Setup & Tooling — 🚧 (~14 hours)
+## Phase 0: Setup & Tooling — ✅ (~14 hours)
 
-| #   | Lesson                                                                               | Status | Est.    |
-| --- | ------------------------------------------------------------------------------------ | ------ | ------- |
-| 01  | [Dev Environment](phase0-setup-and-tooling/lesson1-dev-environment/README.md)        | ✅     | ~75 min |
-| 02  | [Git & Collaboration](phase0-setup-and-tooling/lesson2-git/README.md)                | ✅     | ~45 min |
-| 03  | [GPU Setup & Cloud](phase0-setup-and-tooling/lesson3-gpu-setup-and-cloud/README.md)  | ✅     | ~75 min |
-| 04  | [APIs & Keys ](phase0-setup-and-tooling/lesson4-apis-and-keys/README.md)             | ✅     | ~75 min |
-| 05  | [Jupyter Notebooks](phase0-setup-and-tooling/lesson5-jupyter-notebooks/README.md)    | ✅     | ~75 min |
-| 06  | [Python Environments](phase0-setup-and-tooling/lesson6-python-environment/README.md) | ✅     | ~75 min |
-| 07  | [Docker for AI](phase0-setup-and-tooling/lesson7-docker-for-ai/README.md)            | ✅     | ~75 min |
-| 08  | [Editor Setup](phase0-setup-and-tooling/lesson8-editor-setup/README.md)              | ⬚     | ~75 min |
-| 09  | Data Management                                                                      | ⬚     | ~75 min |
-| 10  | Terminal & Shell                                                                     | ⬚     | ~45 min |
-| 11  | Linux for AI                                                                         | ⬚     | ~45 min |
-| 12  | Debugging & Profiling                                                                | ⬚     | ~75 min |
+| #   | Lesson                                                                                       | Status | Est.    |
+| --- | -------------------------------------------------------------------------------------------- | ------ | ------- |
+| 01  | [Dev Environment](phase0-setup-and-tooling/lesson1-dev-environment/README.md)                | ✅     | ~75 min |
+| 02  | [Git & Collaboration](phase0-setup-and-tooling/lesson2-git/README.md)                        | ✅     | ~45 min |
+| 03  | [GPU Setup & Cloud](phase0-setup-and-tooling/lesson3-gpu-setup-and-cloud/README.md)          | ✅     | ~75 min |
+| 04  | [APIs & Keys ](phase0-setup-and-tooling/lesson4-apis-and-keys/README.md)                     | ✅     | ~75 min |
+| 05  | [Jupyter Notebooks](phase0-setup-and-tooling/lesson5-jupyter-notebooks/README.md)            | ✅     | ~75 min |
+| 06  | [Python Environments](phase0-setup-and-tooling/lesson6-python-environment/README.md)         | ✅     | ~75 min |
+| 07  | [Docker for AI](phase0-setup-and-tooling/lesson7-docker-for-ai/README.md)                    | ✅     | ~75 min |
+| 08  | [Editor Setup](phase0-setup-and-tooling/lesson8-editor-setup/README.md)                      | ✅     | ~75 min |
+| 09  | [Data Management](phase0-setup-and-tooling/lesson9-data-management/README.md)                | ✅     | ~75 min |
+| 10  | [Terminal & Shell](phase0-setup-and-tooling/lesson10-terminal-and-shell/README.md)           | ✅     | ~45 min |
+| 11  | [Linux for AI](phase0-setup-and-tooling/lesson11-linux-for-ai/README.md)                     | ✅     | ~45 min |
+| 12  | [Debugging & Profiling](phase0-setup-and-tooling/lesson12-debugging-and-profiling/README.md) | ✅     | ~75 min |
 
-## Phase 1: Math Foundations — ⬚ (~23 hours)
+## Phase 1: Math Foundations — 🚧 (~23 hours)
 
 | #   | Lesson                                      | Status | Est.    |
 | --- | ------------------------------------------- | ------ | ------- |
