@@ -81,6 +81,10 @@ Ngược hướng:       a · b < 0  (khác biệt)
 
 Đây đúng là cách search engines, recommendation systems, và RAG hoạt động -- tìm vectors có dot products cao.
 
+<video src="DotProductIntuition.mp4" controls="controls" style="max-width: 100%;">
+</video>
+
+
 ### Linear Independence
 
 Các vectors là linearly independent nếu không có vector nào trong tập có thể viết dưới dạng tổ hợp của các vector còn lại. Nếu v1, v2, v3 là independent, chúng trải ra một không gian 3D. Nếu một vector là tổ hợp của các vector khác, chúng chỉ trải ra một mặt phẳng.

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "manimce-best-practices": {
+      "source": "adithya-s-k/manim_skill",
+      "sourceType": "github",
+      "skillPath": "skills/manimce-best-practices/SKILL.md",
+      "computedHash": "b39acc1024b23c39cfdb187659c2d046277fb030767bbca3a0a3b22bbcf780fb"
+    },
+    "manimgl-best-practices": {
+      "source": "adithya-s-k/manim_skill",
+      "sourceType": "github",
+      "skillPath": "skills/manimgl-best-practices/SKILL.md",
+      "computedHash": "2e6d569180c2e3c52d8d7089b64e952ecc7a200838b14523a8467289da6c4766"
+    }
+  }
+}
